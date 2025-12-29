@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digdesain.github.io/jasainstall-wp/sitemap.xml
